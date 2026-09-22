@@ -4,7 +4,7 @@
 
 https://text-to-speach-two.vercel.app/
 
-> Название репозитория — `text-to-speach` — сохранено как есть. В интерфейсе приложение называется **Text to Speech**.
+
 
 ## Возможности
 
